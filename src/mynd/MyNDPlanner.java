@@ -32,7 +32,6 @@ import mynd.search.LAOStarSearch;
  */
 public class MyNDPlanner
 {
-
 	/**
 	 * Enumeration of available search algorithms (AO* search, LAO* search).
 	 */
